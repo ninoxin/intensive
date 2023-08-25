@@ -36,3 +36,5 @@ let random = Math.floor(Math.random() * difference + min);
 let Odd = random + 1 - Math.abs(random % 2);
 
 console.log(Odd);
+
+
